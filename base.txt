@@ -1,0 +1,4 @@
+git logical area's are:
+1.Working area 
+2.Stagging area
+3.Committed area
